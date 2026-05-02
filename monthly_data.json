@@ -1,0 +1,560 @@
+[
+  {
+    "date": "2026-04-02",
+    "food_results": {
+      "rice": {
+        "name": "흰쌀밥",
+        "intake_rate": 90
+      },
+      "soup": {
+        "name": "된장국",
+        "intake_rate": 60
+      },
+      "side1": {
+        "name": "제육볶음",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "시금치나물",
+        "intake_rate": 0
+      },
+      "side3": {
+        "name": "배추김치",
+        "intake_rate": 10
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 570,
+      "total_carbs": 74.8,
+      "total_protein": 27.9,
+      "total_fat": 16.7
+    }
+  },
+  {
+    "date": "2026-04-04",
+    "food_results": {
+      "rice": {
+        "name": "흑미밥",
+        "intake_rate": 80
+      },
+      "soup": {
+        "name": "미역국",
+        "intake_rate": 80
+      },
+      "side1": {
+        "name": "치킨너겟",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "콩나물무침",
+        "intake_rate": 20
+      },
+      "side3": {
+        "name": "깍두기",
+        "intake_rate": 0
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 513,
+      "total_carbs": 72.6,
+      "total_protein": 21.0,
+      "total_fat": 15.6
+    }
+  },
+  {
+    "date": "2026-04-04",
+    "food_results": {
+      "rice": {
+        "name": "현미밥",
+        "intake_rate": 100
+      },
+      "soup": {
+        "name": "김치찌개",
+        "intake_rate": 50
+      },
+      "side1": {
+        "name": "계란말이",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "애호박볶음",
+        "intake_rate": 0
+      },
+      "side3": {
+        "name": "백김치",
+        "intake_rate": 20
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 477,
+      "total_carbs": 68.4,
+      "total_protein": 23.2,
+      "total_fat": 13.0
+    }
+  },
+  {
+    "date": "2026-04-05",
+    "food_results": {
+      "rice": {
+        "name": "볶음밥",
+        "intake_rate": 90
+      },
+      "soup": {
+        "name": "부대찌개",
+        "intake_rate": 80
+      },
+      "side1": {
+        "name": "돈까스",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "어묵볶음",
+        "intake_rate": 30
+      },
+      "side3": {
+        "name": "배추김치",
+        "intake_rate": 10
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 951,
+      "total_carbs": 95.8,
+      "total_protein": 33.7,
+      "total_fat": 43.1
+    }
+  },
+  {
+    "date": "2026-04-06",
+    "food_results": {
+      "rice": {
+        "name": "흰쌀밥",
+        "intake_rate": 80
+      },
+      "soup": {
+        "name": "된장국",
+        "intake_rate": 50
+      },
+      "side1": {
+        "name": "소불고기",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "멸치볶음",
+        "intake_rate": 10
+      },
+      "side3": {
+        "name": "깍두기",
+        "intake_rate": 0
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 511,
+      "total_carbs": 69.5,
+      "total_protein": 25.8,
+      "total_fat": 11.9
+    }
+  },
+  {
+    "date": "2026-04-09",
+    "food_results": {
+      "rice": {
+        "name": "흑미밥",
+        "intake_rate": 100
+      },
+      "soup": {
+        "name": "미역국",
+        "intake_rate": 70
+      },
+      "side1": {
+        "name": "제육볶음",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "시금치나물",
+        "intake_rate": 0
+      },
+      "side3": {
+        "name": "백김치",
+        "intake_rate": 10
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 604,
+      "total_carbs": 78.8,
+      "total_protein": 31.3,
+      "total_fat": 18.1
+    }
+  },
+  {
+    "date": "2026-04-10",
+    "food_results": {
+      "rice": {
+        "name": "현미밥",
+        "intake_rate": 90
+      },
+      "soup": {
+        "name": "부대찌개",
+        "intake_rate": 60
+      },
+      "side1": {
+        "name": "고등어구이",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "콩나물무침",
+        "intake_rate": 10
+      },
+      "side3": {
+        "name": "배추김치",
+        "intake_rate": 0
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 586,
+      "total_carbs": 65.4,
+      "total_protein": 32.7,
+      "total_fat": 22.6
+    }
+  },
+  {
+    "date": "2026-04-11",
+    "food_results": {
+      "rice": {
+        "name": "볶음밥",
+        "intake_rate": 80
+      },
+      "soup": {
+        "name": "된장국",
+        "intake_rate": 40
+      },
+      "side1": {
+        "name": "치킨너겟",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "애호박볶음",
+        "intake_rate": 0
+      },
+      "side3": {
+        "name": "깍두기",
+        "intake_rate": 10
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 554,
+      "total_carbs": 67.4,
+      "total_protein": 18.1,
+      "total_fat": 22.4
+    }
+  },
+  {
+    "date": "2026-04-12",
+    "food_results": {
+      "rice": {
+        "name": "흰쌀밥",
+        "intake_rate": 100
+      },
+      "soup": {
+        "name": "김치찌개",
+        "intake_rate": 80
+      },
+      "side1": {
+        "name": "돈까스",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "어묵볶음",
+        "intake_rate": 20
+      },
+      "side3": {
+        "name": "백김치",
+        "intake_rate": 0
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 796,
+      "total_carbs": 102.6,
+      "total_protein": 30.2,
+      "total_fat": 27.1
+    }
+  },
+  {
+    "date": "2026-04-13",
+    "food_results": {
+      "rice": {
+        "name": "흑미밥",
+        "intake_rate": 90
+      },
+      "soup": {
+        "name": "미역국",
+        "intake_rate": 60
+      },
+      "side1": {
+        "name": "계란말이",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "멸치볶음",
+        "intake_rate": 10
+      },
+      "side3": {
+        "name": "배추김치",
+        "intake_rate": 20
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 449,
+      "total_carbs": 64.6,
+      "total_protein": 21.1,
+      "total_fat": 11.2
+    }
+  },
+  {
+    "date": "2026-04-16",
+    "food_results": {
+      "rice": {
+        "name": "현미밥",
+        "intake_rate": 80
+      },
+      "soup": {
+        "name": "된장국",
+        "intake_rate": 50
+      },
+      "side1": {
+        "name": "소불고기",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "시금치나물",
+        "intake_rate": 0
+      },
+      "side3": {
+        "name": "깍두기",
+        "intake_rate": 10
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 486,
+      "total_carbs": 65.4,
+      "total_protein": 26.5,
+      "total_fat": 12.2
+    }
+  },
+  {
+    "date": "2026-04-17",
+    "food_results": {
+      "rice": {
+        "name": "흰쌀밥",
+        "intake_rate": 100
+      },
+      "soup": {
+        "name": "부대찌개",
+        "intake_rate": 70
+      },
+      "side1": {
+        "name": "제육볶음",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "콩나물무침",
+        "intake_rate": 10
+      },
+      "side3": {
+        "name": "백김치",
+        "intake_rate": 0
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 730,
+      "total_carbs": 85.9,
+      "total_protein": 34.7,
+      "total_fat": 26.2
+    }
+  },
+  {
+    "date": "2026-04-18",
+    "food_results": {
+      "rice": {
+        "name": "흑미밥",
+        "intake_rate": 90
+      },
+      "soup": {
+        "name": "김치찌개",
+        "intake_rate": 60
+      },
+      "side1": {
+        "name": "고등어구이",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "애호박볶음",
+        "intake_rate": 0
+      },
+      "side3": {
+        "name": "배추김치",
+        "intake_rate": 10
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 533,
+      "total_carbs": 66.2,
+      "total_protein": 30.4,
+      "total_fat": 17.1
+    }
+  },
+  {
+    "date": "2026-04-19",
+    "food_results": {
+      "rice": {
+        "name": "볶음밥",
+        "intake_rate": 100
+      },
+      "soup": {
+        "name": "미역국",
+        "intake_rate": 50
+      },
+      "side1": {
+        "name": "치킨너겟",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "어묵볶음",
+        "intake_rate": 20
+      },
+      "side3": {
+        "name": "깍두기",
+        "intake_rate": 0
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 671,
+      "total_carbs": 82.0,
+      "total_protein": 22.2,
+      "total_fat": 26.5
+    }
+  },
+  {
+    "date": "2026-04-20",
+    "food_results": {
+      "rice": {
+        "name": "현미밥",
+        "intake_rate": 80
+      },
+      "soup": {
+        "name": "된장국",
+        "intake_rate": 60
+      },
+      "side1": {
+        "name": "돈까스",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "멸치볶음",
+        "intake_rate": 10
+      },
+      "side3": {
+        "name": "백김치",
+        "intake_rate": 10
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 634,
+      "total_carbs": 79.7,
+      "total_protein": 24.9,
+      "total_fat": 23.2
+    }
+  },
+  {
+    "date": "2026-04-21",
+    "food_results": {
+      "rice": {
+        "name": "현미밥",
+        "intake_rate": 80
+      },
+      "soup": {
+        "name": "된장국",
+        "intake_rate": 60
+      },
+      "side1": {
+        "name": "고등어구이",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "어묵볶음",
+        "intake_rate": 20
+      },
+      "side3": {
+        "name": "배추김치",
+        "intake_rate": 10
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 480,
+      "total_carbs": 59.3,
+      "total_protein": 28.1,
+      "total_fat": 15.4
+    }
+  },
+  {
+    "date": "2026-04-22",
+    "food_results": {
+      "rice": {
+        "name": "흰쌀밥",
+        "intake_rate": 100
+      },
+      "soup": {
+        "name": "미역국",
+        "intake_rate": 70
+      },
+      "side1": {
+        "name": "돈까스",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "멸치볶음",
+        "intake_rate": 10
+      },
+      "side3": {
+        "name": "깍두기",
+        "intake_rate": 0
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 724,
+      "total_carbs": 96.1,
+      "total_protein": 26.2,
+      "total_fat": 23.1
+    }
+  },
+  {
+    "date": "2026-04-23",
+    "food_results": {
+      "rice": {
+        "name": "흰쌀밥",
+        "intake_rate": 90
+      },
+      "soup": {
+        "name": "김치찌개",
+        "intake_rate": 50
+      },
+      "side1": {
+        "name": "소불고기",
+        "intake_rate": 100
+      },
+      "side2": {
+        "name": "시금치나물",
+        "intake_rate": 10
+      },
+      "side3": {
+        "name": "배추김치",
+        "intake_rate": 20
+      }
+    },
+    "calculated_nutrition": {
+      "total_kcal": 572,
+      "total_carbs": 77.6,
+      "total_protein": 28.9,
+      "total_fat": 14.1
+    }
+  }
+]
